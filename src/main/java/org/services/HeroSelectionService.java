@@ -27,7 +27,7 @@ public class HeroSelectionService {
                 heroController.printCounters();
                 i++;
             } catch (Exception e) {
-                LOGGER.error("Invalid hero, please try again.", e);
+                LOGGER.error("Invalid hero, please try again.");
             }
         }
     }

@@ -978,16 +978,11 @@
         "Specialties": "Damage | Magic Damage",
         "Laning": "Gold Laner",
         "counters": [
-            "Masha",
-            "Hayabusa",
-            "Natalia",
-            "Aldous",
-            "Belerick",
-            "martis",
-            "gusion",
             "baxia",
-            "pharsa",
-            "moskov"
+            "belerick",
+            "lolita",
+            "mathilda",
+            "khufra"
         ]
     },
     {

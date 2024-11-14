@@ -9,7 +9,8 @@
             "hylos",
             "kaja",
             "zhask",
-            "franco"
+            "franco",
+            "lolita"
         ]
     },
     {
@@ -22,7 +23,8 @@
             "mathilda",
             "tigreal",
             "hylos",
-            "baxia"
+            "baxia",
+            "akai"
         ]
     },
     {
@@ -35,7 +37,8 @@
             "belerick",
             "minotaur",
             "tigreal",
-            "hylos"
+            "hylos",
+            "tigreal"
         ]
     },
     {
@@ -48,7 +51,8 @@
             "belerick",
             "baxia",
             "floryn",
-            "hylos"
+            "hylos",
+            "lolita"
         ]
     },
     {
@@ -61,7 +65,8 @@
             "floryn",
             "diggie",
             "baxia",
-            "mathilda"
+            "mathilda",
+            "khufra"
         ]
     },
     {
@@ -74,7 +79,8 @@
             "Diggie",
             "Hylos",
             "minotaur",
-            "belerick"
+            "belerick",
+            "khufra"
         ]
     },
     {
@@ -87,7 +93,8 @@
             "minotaur",
             "franco",
             "khufra",
-            "baxia"
+            "baxia",
+            "mathilda"
         ]
     },
     {
@@ -100,7 +107,8 @@
             "hylos",
             "minotaur",
             "kaja",
-            "tigreal"
+            "tigreal",
+            "mathilda"
         ]
     },
     {
@@ -113,7 +121,8 @@
             "minotaur",
             "floryn",
             "hylos",
-            "belerick"
+            "belerick",
+            "khufra"
         ]
     },
     {
@@ -126,7 +135,8 @@
             "hylos",
             "tigreal",
             "belerick",
-            "minotaur"
+            "minotaur",
+            "lolita"
         ]
     },
     {
@@ -139,7 +149,8 @@
             "baxia",
             "zhask",
             "floryn",
-            "mathilda"
+            "mathilda",
+            "akai"
         ]
     },
     {
@@ -152,7 +163,8 @@
             "belerick",
             "tigreal",
             "zhask",
-            "floryn"
+            "floryn",
+            "khufra"
         ]
     },
     {
@@ -162,10 +174,11 @@
         "Laning": "Gold Laner",
         "counters": [
             "kaja",
-            "zhask",
+            "lolita",
             "hylos",
             "khufra",
-            "floryn"
+            "floryn",
+            "mathilda"
         ]
     },
     {
@@ -282,7 +295,8 @@
             "baxia",
             "minotaur",
             "zhask",
-            "franco"
+            "franco",
+            "khufra"
         ]
     },
     {
@@ -529,7 +543,8 @@
             "minotaur",
             "hylos",
             "floryn",
-            "zhask"
+            "zhask",
+            "franco"
         ]
     },
     {
@@ -620,7 +635,8 @@
             "franco",
             "hylos",
             "floryn",
-            "zhask"
+            "zhask",
+            "ling"
         ]
     },
     {
@@ -642,7 +658,7 @@
         "Specialties": "Chase | Damage",
         "Laning": "Mid Laner",
         "counters": [
-            "kaja",
+            "Belerick",
             "franco",
             "khufra",
             "floryn",
@@ -709,9 +725,10 @@
         "counters": [
             "baxia",
             "floryn",
-            "zhask",
-            "hylos",
-            "akai"
+            "lolita",
+            "tigreal",
+            "akai",
+            "minotaur"
         ]
     },
     {
@@ -720,20 +737,6 @@
         "Specialties": "Burst | Magic Damage",
         "Laning": "Jungler",
         "counters": [
-            "Sun",
-            "zhask",
-            "Lancelot",
-            "benedetta",
-            "kadita",
-            "Hayabusa",
-            "ling",
-            "faramis",
-            "kaja",
-            "mathilda",
-            "khufra",
-            "minotaur",
-            "belerick",
-            "baxia"
         ]
     },
     {
@@ -759,7 +762,8 @@
             "franco",
             "zhask",
             "khufra",
-            "baxia"
+            "baxia",
+            "minotaur"
         ]
     },
     {
@@ -790,7 +794,8 @@
             "kaja",
             "franco",
             "belerick",
-            "hylos"
+            "lolita",
+            "floryn"
         ]
     },
     {
@@ -856,7 +861,8 @@
             "floryn",
             "zhask",
             "franco",
-            "kaja"
+            "kaja",
+            "khufra"
         ]
     },
     {
@@ -880,9 +886,9 @@
         "counters": [
             "diggie",
             "mathilda",
-            "zhask",
-            "hylos",
-            "khufra"
+            "floryn",
+            "khufra",
+            "minotaur"
         ]
     },
     {
@@ -924,7 +930,7 @@
         "Laning": "Jungler",
         "counters": [
             "baxia",
-            "hylos",
+            "mathilda",
             "zhask",
             "khufra",
             "akai"
@@ -1038,7 +1044,8 @@
             "khufra",
             "diggie",
             "franco",
-            "hylos"
+            "mathilda",
+            "kaja"
         ]
     },
     {
@@ -1107,9 +1114,10 @@
         "counters": [
             "diggie",
             "akai",
-            "beatrix",
+            "khufra",
             "hylos",
-            "baxia"
+            "baxia",
+            "belerick"
         ]
     },
     {
@@ -1122,7 +1130,8 @@
             "kaja",
             "franco",
             "zhask",
-            "tigreal"
+            "tigreal",
+            "minotaur"
         ]
     },
     {
@@ -1135,7 +1144,8 @@
             "diggie",
             "zhask",
             "minotaur",
-            "tigreal"
+            "tigreal",
+            "floryn"
         ]
     },
     {
@@ -1148,7 +1158,8 @@
             "floryn",
             "hylos",
             "baxia",
-            "zhask"
+            "zhask",
+            "khufra"
         ]
     },
     {
@@ -1157,11 +1168,12 @@
         "Specialties": "Chase | Burst",
         "Laning": "Jungler",
         "counters": [
-            "diggie",
+            "belerick",
             "kaja",
             "mathilda",
             "khufra",
-            "floryn"
+            "floryn",
+            "minotaur"
         ]
     },
     {
@@ -1190,7 +1202,8 @@
             "franco",
             "hylos",
             "baxia",
-            "floryn"
+            "floryn",
+            "akai"
         ]
     },
     {
@@ -1247,7 +1260,8 @@
             "minotaur",
             "zhask",
             "tigreal",
-            "akai"
+            "akai",
+            "khufra"
         ]
     },
     {
@@ -1260,7 +1274,8 @@
             "Franco",
             "kaja",
             "Khufra",
-            "zhask"
+            "zhask",
+            "floryn"
         ]
     },
     {
@@ -1273,7 +1288,8 @@
             "akai",
             "hylos",
             "belerick",
-            "baxia"
+            "baxia",
+            "tigreal"
         ]
     },
     {
@@ -1309,7 +1325,8 @@
             "mathilda",
             "hylos",
             "khufra",
-            "zhask"
+            "zhask",
+            "tigreal"
         ]
     },
     {
@@ -1322,7 +1339,8 @@
             "belerick",
             "hylos",
             "zhask",
-            "akai"
+            "akai",
+            "khufra"
         ]
     },
     {
@@ -1357,7 +1375,8 @@
             "mathilda",
             "hylos",
             "floryn",
-            "zhask"
+            "zhask",
+            "khufra"
         ]
     },
     {
@@ -1370,7 +1389,8 @@
             "kaja",
             "zhask",
             "akai",
-            "tigreal"
+            "tigreal",
+            "floryn"
         ]
     },
     {
@@ -1384,7 +1404,8 @@
             "Wanwan",
             "Chou",
             "belerick",
-            "floryn"
+            "floryn",
+            "diggie"
         ]
     },
     {
@@ -1397,7 +1418,8 @@
             "kaja",
             "mathilda",
             "akai",
-            "zhask"
+            "zhask",
+            "diggie"
         ]
     },
     {
@@ -1410,7 +1432,8 @@
             "belerick",
             "hylos",
             "zhask",
-            "akai"
+            "akai",
+            "floryn"
         ]
     },
     {
@@ -1423,7 +1446,8 @@
             "hylos",
             "khufra",
             "kaja",
-            "franco"
+            "franco",
+            "tigreal"
         ]
     },
     {
@@ -1436,7 +1460,8 @@
             "mathilda",
             "zhask",
             "kaja",
-            "franco"
+            "franco",
+            "akai"
         ]
     },
     {
@@ -1470,7 +1495,8 @@
             "kaja",
             "mathilda",
             "hylos",
-            "khufra"
+            "khufra",
+            "akai"
         ]
     },
     {
@@ -1483,7 +1509,8 @@
             "zhask",
             "hylos",
             "baxia",
-            "mathilda"
+            "mathilda",
+            "akai"
         ]
     },
     {
@@ -1496,7 +1523,8 @@
             "kaja",
             "mathilda",
             "zhask",
-            "khufra"
+            "khufra",
+            "floryn"
         ]
     },
     {
@@ -1509,7 +1537,8 @@
             "kaja",
             "zhask",
             "franco",
-            "tigreal"
+            "tigreal",
+            "akai"
         ]
     },
     {
@@ -1522,7 +1551,8 @@
             "mathilda",
             "hylos",
             "belerick",
-            "lolita"
+            "tigreal",
+            "akai"
         ]
     },
     {
@@ -1535,7 +1565,8 @@
             "diggie",
             "mathilda",
             "zhask",
-            "minotaur"
+            "minotaur",
+            "akai"
         ]
     },
     {
@@ -1548,7 +1579,8 @@
             "kaja",
             "hylos",
             "zhask",
-            "tigreal"
+            "tigreal",
+            "lolita"
         ]
     },
     {
@@ -1561,7 +1593,8 @@
             "minotaur",
             "akai",
             "franco",
-            "kaja"
+            "kaja",
+            "tigreal"
         ]
     },
     {
@@ -1574,7 +1607,8 @@
             "zhask",
             "mathilda",
             "franco",
-            "khufra"
+            "khufra",
+            "diggie"
         ]
     },
     {
@@ -1587,7 +1621,8 @@
             "diggie",
             "zhask",
             "belerick",
-            "baxia"
+            "baxia",
+            "akai"
         ]
     },
     {
@@ -1600,7 +1635,9 @@
             "belerick",
             "zhask",
             "baxia",
-            "akai"
+            "akai",
+            "tigreal",
+            "franco"
         ]
     },
     {
@@ -1613,7 +1650,8 @@
             "zhask",
             "belerick",
             "floryn",
-            "lolita"
+            "lolita",
+            "mathilda"
         ]
     },
     {
@@ -1626,7 +1664,8 @@
             "khufra",
             "mathilda",
             "zhask",
-            "hylos"
+            "hylos",
+            "floryn"
         ]
     },
     {
@@ -1639,7 +1678,8 @@
             "kaja",
             "franco",
             "hylos",
-            "khufra"
+            "khufra",
+            "diggie"
         ]
     },
     {
@@ -1652,7 +1692,8 @@
             "zhask",
             "belerick",
             "khufra",
-            "baxia"
+            "baxia",
+            "tigreal"
         ]
     },
     {
@@ -1665,7 +1706,8 @@
             "franco",
             "mathilda",
             "tigreal",
-            "khufra"
+            "khufra",
+            "floryn"
         ]
     },
     {
@@ -1678,7 +1720,8 @@
             "mathilda",
             "lolita",
             "khufra",
-            "floryn"
+            "floryn",
+            "akai"
         ]
     },
     {
@@ -1691,7 +1734,8 @@
             "kaja",
             "franco",
             "mathilda",
-            "khufra"
+            "khufra",
+            "tigreal"
         ]
     },
     {
@@ -1704,7 +1748,8 @@
             "baxia",
             "zhask",
             "franco",
-            "belerick"
+            "belerick",
+            "floryn"
         ]
     },
     {
@@ -1717,7 +1762,8 @@
             "minotaur",
             "tigreal",
             "khufra",
-            "baxia"
+            "baxia",
+            "floryn"
         ]
     },
     {
@@ -1730,7 +1776,8 @@
             "tigreal",
             "minotaur",
             "zhask",
-            "diggie"
+            "diggie",
+            "akai"
         ]
     },
     {
@@ -1743,7 +1790,8 @@
             "kaja",
             "franco",
             "khufra",
-            "tigreal"
+            "tigreal",
+            "mathilda"
         ]
     },
     {
@@ -1756,7 +1804,22 @@
             "Belerick",
             "franco",
             "khufra",
-            "hylos"
+            "hylos",
+            "akai"
+        ]
+    },
+    {
+        "Name": "Zhuxin",
+        "Role(s)": "Jungle",
+        "Specialties": "Reap | Damage",
+        "Laning": "EXP Laner",
+        "counters": [
+            "mathilda",
+            "minotaur",
+            "floryn",
+            "tigreal",
+            "belerick",
+            "franco"
         ]
     }
 ]
